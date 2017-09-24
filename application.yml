@@ -6,5 +6,5 @@ Logging:
     Microsoft: Information
 eureka:
   client: 
-    serviceUrl: http://localhost:8761/eureka/
-    validate_certificates: false
+#    serviceUrl: http://localhost:8761/eureka/
+    validate_certificates: true
