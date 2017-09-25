@@ -7,4 +7,4 @@ Logging:
 eureka:
   client: 
 #    serviceUrl: http://localhost:8761/eureka/
-    validate_certificates: true
+    validate_certificates: false
